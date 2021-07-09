@@ -1,8 +1,0 @@
-main: me.Nanopoison.NanosBosses.Main
-name: NanosBosses
-version: 1.2
-author: Nanopoison
-api-version: 1.16
-
-commands:
-  spawn:
